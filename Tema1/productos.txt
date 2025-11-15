@@ -1,0 +1,5 @@
+P001,Laptop Dell XPS,8,800.00,1200.00
+P002,Mouse Logitech,25,15.00,25.00
+P003,Teclado Mecanico,15,45.00,75.00
+P004,Monitor Samsung 24",8,200.00,350.00
+P005,Audifonos Sony,30,50.00,85.00
